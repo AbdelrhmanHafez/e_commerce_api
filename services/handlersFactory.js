@@ -1,6 +1,6 @@
 const asyncHandler = require('express-async-handler');
-const ApiError = require('../utilis/apiError');
-const ApiFeatures = require('../utilis/apiFeatures');
+const ApiError = require('../utils/apiError');
+const ApiFeatures = require('../utils/apiFeatures');
 
 // Delete any document by ID
 exports.deleteOne = (Model) =>

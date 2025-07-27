@@ -1,0 +1,46 @@
+# Query: utilis
+# Flags: RegExp
+
+16 results - 13 files
+
+middlewares\errorMiddleware.js:
+  1: const ApiError = require('../utils/apiError');
+
+middlewares\uploadeImageMiddlewares.js:
+  2: const ApiError = require('../utils/apiError');
+
+routes\authRoutes.js:
+  5: } = require('../utils/validator/authValidator');
+
+routes\brandRoutes.js:
+  7: } = require('../utils/validator/brandValidator');
+
+routes\categoryRoutes.js:
+  7: } = require('../utils/validator/categoryValidator');
+
+routes\productRoutes.js:
+  7: } = require('../utils/validator/productValidator');
+
+routes\reviewRoutes.js:
+  9: } = require('../utils/validator/reviewValidator');
+
+routes\subCategoryRoutes.js:
+  17: } = require('../utils/validator/subCategoryValidator');
+
+routes\userRoutes.js:
+  9: } = require('../utils/validator/userValidator');
+
+routes\wishListRoutes.js:
+  9: } = require('../utils/validator/wishListValidator')
+
+services\authServices.js:
+  6: const sendEmail = require('../utils/sendEmail');
+  7: const ApiError = require('../utils/apiError');
+  9: const createToken = require('../utils/createToken');
+
+services\handlersFactory.js:
+  2: const ApiError = require('../utils/apiError');
+  3: const ApiFeatures = require('../utils/apiFeatures');
+
+services\userServices.js:
+  7: const ApiError = require('../utils/apiError');

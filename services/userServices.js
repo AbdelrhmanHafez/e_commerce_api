@@ -4,7 +4,7 @@ const sharp = require('sharp');
 const slugify = require('slugify');
 const bcrypt = require('bcryptjs');
 
-const ApiError = require('../utilis/apiError');
+const ApiError = require('../utils/apiError');
 const User = require('../models/userModel');
 const factory = require('./handlersFactory');
 const { uploadSingleImage } = require('../middlewares/uploadeImageMiddlewares');

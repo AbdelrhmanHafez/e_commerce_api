@@ -4,7 +4,7 @@ const {
     createProductValidator,
     updateProductValidator,
     deleteProductValidator,
-} = require('../utilis/validator/productValidator');
+} = require('../utils/validator/productValidator');
 
 const {
     getProducts,

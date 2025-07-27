@@ -3,10 +3,10 @@ const crypto = require('crypto');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const asyncHandler = require('express-async-handler');
-const sendEmail = require('../utilis/sendEmail');
-const ApiError = require('../utilis/apiError');
+const sendEmail = require('../utils/sendEmail');
+const ApiError = require('../utils/apiError');
 const User = require('../models/userModel');
-const createToken = require('../utilis/createToken');
+const createToken = require('../utils/createToken');
 
 // @desc    Signup
 // @route   POST /api/v1/auth/signup

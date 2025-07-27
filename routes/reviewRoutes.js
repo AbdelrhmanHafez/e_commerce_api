@@ -6,7 +6,7 @@ const {
     updateReviewValidator,
     getReviewValidator,
     deleteReviewValidator,
-} = require('../utilis/validator/reviewValidator');
+} = require('../utils/validator/reviewValidator');
 
 const {
     getReview,

@@ -2,7 +2,7 @@ const express = require('express');
 
 const {
     addAddressValidator,
-} = require('../utilis/validator/addresevalidator.js');
+} = require('../utils/validator/addresevalidator.js');
 const {
     addAddress,
     removeAddress,

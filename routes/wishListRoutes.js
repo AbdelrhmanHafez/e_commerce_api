@@ -6,7 +6,7 @@ const {
     getWishlistValidator,
     addToWishlistValidator,
     deleteFromWishlistValidator
-} = require('../utilis/validator/wishListValidator')
+} = require('../utils/validator/wishListValidator')
 
 const {
     addProductToWishlist,

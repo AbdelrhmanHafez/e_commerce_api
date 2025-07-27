@@ -4,7 +4,7 @@ const {
     createBrandValidator,
     updateBrandValidator,
     deleteBrandValidator,
-} = require('../utilis/validator/brandValidator');
+} = require('../utils/validator/brandValidator');
 
 const {
     getBrands,
