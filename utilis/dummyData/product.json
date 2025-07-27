@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Fjallraven – Foldstack No. 1 Backpack, Fits 15 Laptops",
+    "slug": "fjallraven-foldstack-no-1-backpack-fits-15-laptops",
+    "quantity": 10,
+    "price": 109.95,
+    "priceAfterDiscount": 100,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches).",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "slug": "mens-casual-premium-slim-fit-t-shirts",
+    "quantity": 20,
+    "price": 22.3,
+    "priceAfterDiscount": 20,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879_.jpg"
+  },
+  {
+    "title": "Wireless Bluetooth Headphones",
+    "slug": "wireless-bluetooth-headphones",
+    "quantity": 15,
+    "price": 59.99,
+    "priceAfterDiscount": 49.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/headphones.jpg"
+  },
+  {
+    "title": "Smart Fitness Watch",
+    "slug": "smart-fitness-watch",
+    "quantity": 25,
+    "price": 129.99,
+    "priceAfterDiscount": 110,
+    "description": "Track your steps, heart rate, and sleep with this fitness smartwatch.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/smartwatch.jpg"
+  },
+  {
+    "title": "Leather Office Bag",
+    "slug": "leather-office-bag",
+    "quantity": 8,
+    "price": 89,
+    "priceAfterDiscount": 75,
+    "description": "Elegant leather bag perfect for business travel.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/officebag.jpg"
+  },
+  {
+    "title": "Gaming Mouse RGB",
+    "slug": "gaming-mouse-rgb",
+    "quantity": 30,
+    "price": 35.5,
+    "priceAfterDiscount": 30,
+    "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/gamingmouse.jpg"
+  },
+  {
+    "title": "USB-C Fast Charger 45W",
+    "slug": "usb-c-fast-charger-45w",
+    "quantity": 50,
+    "price": 19.99,
+    "priceAfterDiscount": 15.99,
+    "description": "Quick charge your devices with this compact and powerful charger.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/charger.jpg"
+  },
+  {
+    "title": "4K Ultra HD Monitor 27 Inch",
+    "slug": "4k-ultra-hd-monitor-27-inch",
+    "quantity": 12,
+    "price": 329.99,
+    "priceAfterDiscount": 299.99,
+    "description": "Crisp display with vibrant colors for gaming and professional use.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/monitor.jpg"
+  },
+  {
+    "title": "Portable SSD 1TB",
+    "slug": "portable-ssd-1tb",
+    "quantity": 40,
+    "price": 119.99,
+    "priceAfterDiscount": 99.99,
+    "description": "Lightweight external SSD with fast transfer speeds.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/ssd.jpg"
+  },
+  {
+    "title": "Bluetooth Mechanical Keyboard",
+    "slug": "bluetooth-mechanical-keyboard",
+    "quantity": 18,
+    "price": 89.99,
+    "priceAfterDiscount": 75,
+    "description": "Responsive keys with RGB lights and wireless connection.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/keyboard.jpg"
+  },
+  {
+    "title": "Running Shoes for Men",
+    "slug": "running-shoes-for-men",
+    "quantity": 22,
+    "price": 79.99,
+    "priceAfterDiscount": 70,
+    "description": "Breathable and lightweight shoes for daily running.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/runningshoes.jpg"
+  },
+  {
+    "title": "Noise Cancelling Earbuds",
+    "slug": "noise-cancelling-earbuds",
+    "quantity": 35,
+    "price": 149.99,
+    "priceAfterDiscount": 129.99,
+    "description": "Enjoy clear sound with ANC and long battery life.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/earbuds.jpg"
+  },
+  {
+    "title": "Digital Drawing Tablet",
+    "slug": "digital-drawing-tablet",
+    "quantity": 10,
+    "price": 199.99,
+    "priceAfterDiscount": 180,
+    "description": "Perfect for artists and designers. Comes with stylus.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/drawingtablet.jpg"
+  },
+  {
+    "title": "Smart LED Light Bulbs (4 Pack)",
+    "slug": "smart-led-light-bulbs-4-pack",
+    "quantity": 60,
+    "price": 39.99,
+    "priceAfterDiscount": 32.99,
+    "description": "Control lights with your phone. 16 million colors.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/smartbulbs.jpg"
+  },
+  {
+    "title": "Ergonomic Office Chair",
+    "slug": "ergonomic-office-chair",
+    "quantity": 7,
+    "price": 249.99,
+    "priceAfterDiscount": 220,
+    "description": "Support your back with this adjustable mesh chair.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/officechair.jpg"
+  },
+  {
+    "title": "Camping Tent for 4 People",
+    "slug": "camping-tent-for-4-people",
+    "quantity": 9,
+    "price": 179.99,
+    "priceAfterDiscount": 160,
+    "description": "Easy setup tent for outdoor adventures.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/campingtent.jpg"
+  },
+  {
+    "title": "Waterproof Action Camera",
+    "slug": "waterproof-action-camera",
+    "quantity": 14,
+    "price": 139.99,
+    "priceAfterDiscount": 120,
+    "description": "Capture your moments in 4K even underwater.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/actioncam.jpg"
+  },
+  {
+    "title": "Hair Dryer 2000W",
+    "slug": "hair-dryer-2000w",
+    "quantity": 19,
+    "price": 49.99,
+    "priceAfterDiscount": 42.5,
+    "description": "Quick drying with ionic technology and cool shot.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/hairdryer.jpg"
+  },
+  {
+    "title": "Electric Toothbrush",
+    "slug": "electric-toothbrush",
+    "quantity": 26,
+    "price": 59.99,
+    "priceAfterDiscount": 50,
+    "description": "Improve your dental hygiene with smart brushing modes.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/toothbrush.jpg"
+  },
+  {
+    "title": "Compact Air Fryer 4L",
+    "slug": "compact-air-fryer-4l",
+    "quantity": 11,
+    "price": 99.99,
+    "priceAfterDiscount": 85,
+    "description": "Cook healthy meals with little to no oil.",
+    "category": "61b2a9d869d54640ca3d7293",
+    "imageCover": "https://fakestoreapi.com/img/airfryer.jpg"
+  }
+]

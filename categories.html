@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Categories Gallery</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .category {
+      border: 1px solid #ddd;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      width: 300px;
+    }
+    .category img {
+      max-width: 100%;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Categories</h1>
+  <div id="categoriesContainer"></div>
+
+  <script>
+    const container = document.getElementById("categoriesContainer");
+
+    // Get categories from API
+    fetch("http://localhost:5000/api/v1/categories")
+      .then(response => response.json())
+      .then(data => {
+        data.data.forEach(category => {
+          const div = document.createElement("div");
+          div.className = "category";
+
+          const name = document.createElement("h3");
+          name.textContent = category.name;
+
+          const img = document.createElement("img");
+          img.src = `http://localhost:3000/uploads/categories/${category.image}`;
+          img.alt = category.name;
+
+          div.appendChild(name);
+          div.appendChild(img);
+          container.appendChild(div);
+        });
+      })
+      .catch(error => {
+        container.innerHTML = "<p>Failed to load categories.</p>";
+        console.error("Error fetching categories:", error);
+      });
+  </script>
+</body>
+</html>
